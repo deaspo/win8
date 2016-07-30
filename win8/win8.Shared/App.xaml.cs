@@ -23,6 +23,7 @@ namespace win8
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
+    /// Additional comment
     public sealed partial class App : Application
     {
 #if WINDOWS_PHONE_APP
